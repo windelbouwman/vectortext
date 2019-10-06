@@ -1,0 +1,13 @@
+
+[package]
+name = "vectortext"
+version = "0.0.0"
+description = "emit text to GPU as triangles"
+edition = "2018"
+license = "GPL"
+
+[dependencies]
+glium = "0.25.1"
+glutin = "0.21.1"
+lyon = "0.14.1"
+rusttype = "0.8.1"
